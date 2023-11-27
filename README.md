@@ -3,8 +3,7 @@
 <div align="center">  
  👨‍💻 Residente em TIC Software-Serratec. <br>
  📧 Contato: <a href="#">cintiadeazevedocastrogall@gmail.com</a><br><br>
-      <img width="49%" height="210px" src="https://github-readme-stats.vercel.app/api?username=Cintiaaaa&show_icons=true&count_private=true&hide_border=true&title_color=9000D3&icon_color=FFBF00&text_color=F0F8FF&bg_color=000000" alt="Cintia's Github Stats" /> 
-      <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cintiaaaa&layout=compact&hide_border=true&title_color=9000D3&text_color=F0F8FF&bg_color=000000" alt="Cintia's Most Used Languages" />
+          <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cintiaaaa&layout=compact&hide_border=true&title_color=9000D3&text_color=F0F8FF&bg_color=000000" alt="Cintia's Most Used Languages" />
  </div>
  
  <h2>Tecnologias</h2>
